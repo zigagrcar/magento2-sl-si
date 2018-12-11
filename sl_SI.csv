@@ -4899,6 +4899,7 @@
 "You saved the attribute set.","Nabor atributov ste shranili.",module,Magento_Catalog
 "Something went wrong while saving the attribute set.","Med shranjevanjem nabora atributov je šlo nekaj narobe.",module,Magento_Catalog
 "You added product %1 to the comparison list.","Izdelek %1 ste dodali na seznam primerjave.",module,Magento_Catalog
+"You added product %1 to the <a href=""%2"">comparison list</a>.","Izdelek %1 ste dodali na <a href=""%2"">seznam primerjave</a>.",module,Magento_Catalog
 "You cleared the comparison list.","Počistili ste seznam primerjave.",module,Magento_Catalog
 "Something went wrong  clearing the comparison list.","Med čiščenjem seznama primerjave je šlo nekaj narobe.",module,Magento_Catalog
 "You removed product %1 from the comparison list.","Izdelek %1 ste odstranili iz seznama primerjave.",module,Magento_Catalog
@@ -7114,6 +7115,7 @@
 "Customer is already registered","Stranka je že registrirana",module,Magento_Checkout
 "Your session has expired","Vaša seja je potekla",module,Magento_Checkout
 "You added %1 to your shopping cart.","Dodali ste %1 v vašo košarico.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Dodali ste %1 v <a href=""%2"">vašo košarico</a>.",module,Magento_Checkout
 "We can\'t add this item to your shopping cart right now.","Tega elementa trenutno ni mogoče dodati v vašo košarico.",module,Magento_Checkout
 "Out of stock","Ni na zalogi",module,Magento_Checkout
 "We can't find the quote item.","Elementa ponudbe ni mogoče najti.",module,Magento_Checkout

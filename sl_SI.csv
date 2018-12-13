@@ -8042,7 +8042,7 @@
 "Pending Payment","Plačilo na čakanju",module,Magento_Sales
 "Processing","Obdelava",module,Magento_Sales
 "On Hold","Na čakanju",module,Magento_Sales
-"Complete","Končanje",module,Magento_Sales
+"Complete","Zaključeno",module,Magento_Sales
 "Closed","Zaprto",module,Magento_Sales
 "Suspected Fraud","Sum goljufije",module,Magento_Sales
 "Payment Review","Pregled plačila",module,Magento_Sales

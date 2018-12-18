@@ -8344,12 +8344,12 @@
 "Visibility","Vidnost",module,Magento_Review
 "Nickname","Vzdevek",module,Magento_Review
 "Summary of Review","Povzetek mnenja",module,Magento_Review
-"Review","Pregled",module,Magento_Review
+"Review","Mnenja",module,Magento_Review
 "Previous","Prejšnja",module,Magento_Review
 "Save and Previous","Shrani in na prejšnjo",module,Magento_Review
 "Save and Next","Shrani in naprej",module,Magento_Review
 "Next","Naslednja",module,Magento_Review
-"Delete Review","Izbriši pregled",module,Magento_Review
+"Delete Review","Izbriši mnenje",module,Magento_Review
 "Are you sure you want to do this?","Ali ste prepričani, da želite to storiti?",module,Magento_Review
 "Edit Review '%1'","Uredi mnenje '%1'",module,Magento_Review
 "<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target=\'blank\'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>",module,Magento_Review
@@ -8412,7 +8412,7 @@
 "Something went wrong while deleting these records.","Med brisanjem teh vnosov je šlo nekaj narobe.",module,Magento_Review
 "A total of %1 record(s) have been updated.","Skupaj %1 vnosov je bilo posodobljenih.",module,Magento_Review
 "Something went wrong while updating these review(s).","Med posodobitvijo teh mnenj je šlo nekaj narobe.",module,Magento_Review
-"You saved the review.","Pregled ste shranili.",module,Magento_Review
+"You saved the review.","Mnenje ste shranili.",module,Magento_Review
 "Something went wrong while saving this review.","Med shranjevanjem tega mnenja je šlo nekaj narobe.",module,Magento_Review
 "The review was removed by another user or does not exist.","Mnenje je odstranil drug uporabnik ali pa ne obstaja.",module,Magento_Review
 "You deleted the rating.","Izbrisali ste oceno.",module,Magento_Review

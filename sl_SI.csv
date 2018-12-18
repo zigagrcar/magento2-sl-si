@@ -5820,8 +5820,8 @@
 "Something went wrong while saving the search query.","Med shranjevanjem iskalne poizvedbe je šlo nekaj narobe.",module,Magento_Search
 "You already have an identical search term query.","Že imate identični izraz iskalne poizvedbe.",module,Magento_Search
 "Your search query can\'t be longer than %1, so we shortened your query.","Vaša poizvedba iskanja ne sme biti daljša od %1, tako da je bila skrajšana.",module,Magento_Search
-"Search entire store here...","Tu iščite po celotni trgovini...",module,Magento_Search
-"There are no search terms available.","Ni na voljno nizov iskanja.",module,Magento_Search
+"Search entire store here...","Iskanje po celotni trgovini...",module,Magento_Search
+"There are no search terms available.","Na voljo ni nobenih iskalnih nizov.",module,Magento_Search
 "Search Engine","Iskalnik",module,Magento_Search
 "CSV","CSV",module,Magento_Search
 "Excel XML","Excel XML",module,Magento_Search
@@ -8456,7 +8456,7 @@
 "Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Mnenja lahko pišejo samo registrirani uporabniki. Prosimo, <a href=""%1"">prijavite se</a> ali <a href=""%2"">ustvarite nov račun</a>",module,Magento_Review
 "Add Your Review","Dodajte vaše mnenje",module,Magento_Review
 "%1 Review(s)","Število mnenj %1",module,Magento_Review
-"Review by","Mnenja po",module,Magento_Review
+"Review by","Mnenje od",module,Magento_Review
 "Posted on","Poslano",module,Magento_Review
 "Back to Main Product Info","Nazaj na glavne informacije o izdelku",module,Magento_Review
 "Average Customer Rating","Povprečna ocena kupca",module,Magento_Review

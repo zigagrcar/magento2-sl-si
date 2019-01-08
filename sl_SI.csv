@@ -8474,6 +8474,7 @@
 "Only registered users can write reviews. Please <a href=%1"">Sign in</a> or <a href=""%2"">create an account</a>""","Mnenja lahko pišejo samo registrirani uporabniki. Prosimo, <a href=%1"">prijavite se</a> ali <a href=""%2"">ustvarite nov račun</a>""",module,Magento_Review
 "By Customers","Po kupcih",module,Magento_Review
 "By Products","Po izdelkih",module,Magento_Review
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Mnenja lahko pišejo samo registrirani uporabniki. Prosimo, <a href=""%1"">prijavite se</a> ali <a href=""%2"">ustvarite nov račun</a>",module,Magento_Review
 "Export VCL for Varnish ","Izvozi VCL za Vrnish ",module,Magento_PageCache
 "Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Vrednost TTL ""%1"" ni veljavna. Uporabite samo številke večje ali enake 0.",module,Magento_PageCache
 "Built-in Application (Not Recommended for Production Use)","Vgrajena aplikacija (ni priporočljivo za produkcijsko uporabo)",module,Magento_PageCache
